@@ -1,9 +1,11 @@
-# Fabric Example Mod
+# Vanilla Recipe
 
-## Setup
+为Minecraft中的一些不可合成物品添加合成表。
 
-For setup instructions please see the [fabric wiki page](https://fabricmc.net/wiki/tutorial:setup) that relates to the IDE that you are using.
+## Required
+
+Fabric Loader >= 0.13.3
 
 ## License
 
-This template is available under the CC0 license. Feel free to learn from it and incorporate it in your own projects.
+此项目使用 [CC0-1.0](LICENSE) 协议。
